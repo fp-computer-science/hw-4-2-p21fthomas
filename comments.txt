@@ -1,0 +1,5 @@
+Question 1
+Your print statements are a bit off.
+
+Question 2
+You should have prompted the user to input thier height and weight and calculated their BMI, not ask for their BMI.
